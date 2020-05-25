@@ -1,0 +1,20 @@
+h1{
+    color: darkcyan;
+    background: lightcyan;
+    border: 3px solid indigo;
+    padding: 26px;
+    font-size: 54px;
+    font-family: monospace;
+}
+
+p{
+    background-color: azure;
+}
+
+div{
+    color: darkblue;
+}
+
+img{
+    width: 100px;
+}
